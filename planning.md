@@ -10,6 +10,10 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+My domain is student reviews of professors at the University of Michigan, sourced from RateMyProfessors.com 
+This knowledge is valuable because official course listings describe course content but reveal
+nothing about teaching style, exam difficulty, accessibility, or workload. Students rely on
+word-of-mouth or scattered forum posts this system makes that knowledge searchable in one place.
 
 ---
 
@@ -20,16 +24,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | RateMyProfessors.com |student reviews on professors | https://www.ratemyprofessors.com/professor/1080164 |
+| 2 | RateMyProfessors.com |student reviews on professors | https://www.ratemyprofessors.com/professor/1080164 |
+| 3 | RateMyProfessors.com |student reviews on professors | https://www.ratemyprofessors.com/professor/1787414 |
+| 4 | RateMyProfessors.com |student reviews on professors | https://www.ratemyprofessors.com/professor/1787414 |
+| 5 | RateMyProfessors.com |student reviews on professors | https://www.ratemyprofessors.com/professor/2542205 |
+| 6 | RateMyProfessors.com |student reviews on professors | https://www.ratemyprofessors.com/professor/2585042 | 
+| 7 | RateMyProfessors.com |student reviews on professors | https://www.ratemyprofessors.com/professor/2585042 |
+| 8 | RateMyProfessors.com |student reviews on professors | https://www.ratemyprofessors.com/professor/287242 |
+| 9 | RateMyProfessors.com |student reviews on professors | https://www.ratemyprofessors.com/professor/287242 |
+| 10 | RateMyProfessors.com |student reviews on professors| https://www.ratemyprofessors.com/professor/38555 |
 
 ---
 
