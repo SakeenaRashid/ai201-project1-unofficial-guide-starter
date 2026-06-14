@@ -1,3 +1,4 @@
+
 import os
 import re
 import chromadb
@@ -27,7 +28,8 @@ def chunk_text(text, chunk_size=CHUNK_SIZE, overlap=OVERLAP):
 
 def main():
     model = SentenceTransformer("all-MiniLM-L6-v2")
-    client = chromadb.Client()
+    client = chromadb.PersistentClient(path="./chroma_db")
+    client.delete_collection(COLLECTION_NAME) if COLLECTION_NAME in [c.name for c in client.list_collections()] else None
     collection = client.create_collection(COLLECTION_NAME)
 
     all_ids = []
